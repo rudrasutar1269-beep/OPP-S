@@ -1,5 +1,5 @@
-* ###### **STUDENT NAME :- SHREYA SANTOSH DHURANDHAR**
-* ###### **ZPRN :- 125UAD1131**
+* ###### **STUDENT NAME :- RUDRA VIJAY SUTAR**
+* ###### **ZPRN :- 125UAD1302**
 * ###### **CLASS/DIV :- SY B.Tech-(F)**
 * ###### **COURSE NAME :- OOP's**
 * ###### **UNIT-1**
